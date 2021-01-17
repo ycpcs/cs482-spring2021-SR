@@ -31,7 +31,7 @@ This course is an elective course for Computer Science majors. It is a continuat
 
 ### Additional Course Description for the Swarm Robotics Project
 
-This semester (Spring 2021) will be a continuation of the work that was accomplished by the CS481 Swarm Robotics team from Fall 2021, in coordination with the 2020-2021 Swarm Robotics Engineering Capstone team.  The Swarm Robotics SW Engineeing team will continue the design and development efforts for the various software components for the Swarm Robotics project, as determined by both the SW Engineering team and then Engineering Capstone team.
+This semester (Spring 2021) will be a continuation of the work that was accomplished by the CS481 Swarm Robotics team from Fall 2021, in coordination with the 2020-2021 Swarm Robotics Engineering Capstone team.  The Swarm Robotics SW Engineeing team will continue the design and development efforts for the various software components for the Swarm Robotics project, as determined by both the SW Engineering team and the Engineering Capstone team.
 
 You will be working in close coordination with the Swarm Robotics Engineering Capstone Team.  As such, designated CS Senior Design team members are required to attend the Engineering Capstone Team's status meetings and Milestone Presentations and Demos.  Some of the presentations and demos will likely be collaborative efforts betweeen the SW Engineering Team and the Engineering Capstone Team.
 
@@ -52,7 +52,7 @@ Course Structure and Expectations
 
 Each student will be required to maintain a weekly journal documenting their work accomplished for each week. Additionally, a series of graded Milestones similar to CS481 will be based on demonstrations of your team's progress throughout the semester.  For the weeks when there is not a Milestone presentation scheduled, each team will give a status update on their progress.
 
-You are also expected to work in coordination with the Engieering Capstone Swarm Robotics team, and support their efforts, as well as request their support in your efforts.
+You are also expected to work in coordination with the Engineering Capstone Swarm Robotics team, and support their efforts, as well as request their support in your efforts.
 
 The ultimate success of the project relies on the integration of the SW Engineering effort and the Capstone Engineering effort, and requires comprehensive communication and coordination between the two teams, and all team members.
 
