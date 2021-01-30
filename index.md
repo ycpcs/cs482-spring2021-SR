@@ -39,6 +39,8 @@ All information about the course will be posted here.
 
 * **Feb 1** &mdash; Assign02 (weekly journal entries) will be due by Noon EVERY Tuesday (starting 2-9-21), covering the preceding week's activities.  During the weekly stand-up meetings, you will present a summary of your accomplishments and progress, challenges, and goals for the coming week.  NOTE: You MUST maintain your weekly journals throughout the ENTIRE semester, even on the weeks in which there are Milestone presentations.
 
+* **Feb 1** &mdash; Our first meeting of the semester will be on Monday, 2-1-21 from Noon to 12:50.  We will be meeting with the SR Engineering Capstone team, and will be using their Zoom link.  Our first regular CS482 status meeting will be on Tuesday, 2-9-21 from 2:30 to 3:30.
+
 * **Feb 1** &mdash; Welcome back!  The [Syllabus](syllabus.html) and [Assignments](assign/index.html) pages have a complete overview of the course and what you will be expected to do.
 
 <!-- vim:set wrap: -->
