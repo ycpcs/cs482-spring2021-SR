@@ -21,13 +21,17 @@ All information about the course will be posted here.
 
 * **May 4** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-SwarmRobotics-Sp21-final.pdf) are due Friday, 5-14-21, by Noon in PDF form via email to your instructors.
 
-* **Apr 27** &mdash; The CS Senior Design Final Presentation and Demo (MS4) will be Tuesday, 5-11-21, from 5:00pm to 7:00pm via Zoom.  The Radio Telescope Engineering Capstone Final Presentation and Demo will on ???, ??-??-21, from ??:??to ??:??, via Zoom.
+* **Apr 27** &mdash; The Swarm Robotics Project Final Presentation and Demo (MS4) will be Tuesday, 5-11-21, from 5:00pm to 7:00pm via Zoom, in coordinatio with the Engienering Capstone team.  As far as we know, this will be a virtual event, present via Zoom.
 
 * **Apr 27** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Tuesday, 5-4-21, by Noon in your Google Drive, for review and comment by your instructors.
 
-* **Mar 30** &mdash; Milestone 3 presentation/demo on Tuesday, 4-27-21, during normal class time via Zoom.
-
 -->
+
+* ** Mar 21** &mdash; **The Engineering and Computer Science Expo** is scheduled for Thursday, 4-29-21, and there will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Swarm Robotics project at that time.  As far as we know, this will be a virtual event, presented via Zoom.
+
+* **Mar 21** &mdash; Milestone 3 presentation/demo on Tuesday, 4-27-21, during normal class time via Zoom.
+
+* **Mar 21** &mdash; Dr. Babcock will be taking over as the CS instructor for the Swarm Robotics project on Monday, 3-22-21.  Please direct all of your inquiries to Dr. Babcock.
 
 * **Mar 7** &mdash; Milestone 2 presentation/demo on Tuesday, 3-30-21, during normal class time, via Zoom.
 
