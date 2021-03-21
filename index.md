@@ -27,7 +27,7 @@ All information about the course will be posted here.
 
 -->
 
-* ** Mar 21** &mdash; **The Engineering and Computer Science Expo** is scheduled for Thursday, 4-29-21, and there will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Swarm Robotics project at that time.  As far as we know, this will be a virtual event, presented via Zoom.
+* **Mar 21** &mdash; **The Engineering and Computer Science Expo** is scheduled for Thursday, 4-29-21, and there will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Swarm Robotics project at that time.  As far as we know, this will be a virtual event, presented via Zoom.  **It is possible that Milestone 3 will be combined with this event.**
 
 * **Mar 21** &mdash; Milestone 3 presentation/demo on Tuesday, 4-27-21, during normal class time via Zoom.
 
