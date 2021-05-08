@@ -16,20 +16,19 @@ All information about the course will be posted here.
 ## News
 
 <!--
+-->
 
 * **May 4** &mdash; [Final Technical Reports](./assign/finalreport.html) and Team Posters are due Friday, 5-14-21, by Noon in your Google Drive, as well as in PDF form via email to your instructors.
 
 * **May 4** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-SwarmRobotics-Sp21-final.pdf) are due Friday, 5-14-21, by Noon in PDF form via email to your instructors.
 
-* **Apr 27** &mdash; The Swarm Robotics Project Final Presentation and Demo (MS4) will be Tuesday, 5-11-21, from 5:00pm to 7:00pm via Zoom, in coordinatio with the Engienering Capstone team.  As far as we know, this will be a virtual event, present via Zoom.
+* **Apr 27** &mdash; The Swarm Robotics Project Final Presentation and Demo (MS4) will be Monday, 5-10-21, from 12:45p to 2:45p (during the final exam period) via Zoom, in coordination with the Engineering Capstone team.
 
 * **Apr 27** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Tuesday, 5-4-21, by Noon in your Google Drive, for review and comment by your instructors.
 
--->
+* **Apr 14** &mdash; **The Engineering and Computer Science Rollout for the Swarm Robotics Project** is scheduled for Monday, 5-3-21 from 5:00p to 6:30p via Zoom.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Swarm Robotics project at that time.
 
-* **Apr 14** &mdash; **The Engineering and Computer Science Rollout for the Swarm Robotics Project** is  scheduled for Monday, 5-3-21 via Zoom.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Swarm Robotics project at that time.
-
-* **Mar 21** &mdash; Milestone 3 presentation/demo on Tuesday, 4-27-21, during normal class time via Zoom.
+* **Apr 14** &mdash; Milestone 3 presentation/demo has been consolidated with the Engineering and Computer Science rollout, to be held on 5-3-21 via Zoom (see above).
 
 * **Mar 21** &mdash; Dr. Babcock will be taking over as the CS instructor for the Swarm Robotics project on Monday, 3-22-21.  Please direct all of your inquiries to Dr. Babcock.
 

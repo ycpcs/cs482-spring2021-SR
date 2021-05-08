@@ -17,9 +17,9 @@ Assignment | Due
 [Assign03: Milestone 1](assign03.html) | Tuesday, 3-2-2021 (during class period via Zoom)
 [Assign04: Milestone 2](assign04.html) | Tuesday, 3-30-2021 (during class period via Zoom)
 [Midterm Peer Evaluations](PeerEval-SwarmRobotics-Sp21-midterm.pdf) | Saturday, 4-3-21 (by Noon in PDF form via email)
-[Assign05: Milestone 3](assign05.html) | Tuesday, 4-27-2021 (during class period via Zoom)
+[Assign05: Milestone 3](assign05.html) | Monday, 5-3-2021 (5:00p to 6:30p) via Zoom, as part of the Engineering and Computer Science Rollout, in conjuction with the Engineering Capstone team
 [Assign06: Draft Technical Report](assign06.html) | Tuesday, 5-4-2021 (by Noon in your Google Drive)
-[Assign06: Milestone 4](assign06.html) | Tuesday, 5-11-2021 (5:00p to 7:00p via Zoom)
+[Assign06: Milestone 4](assign06.html) | Monday, 5-10-2021 (5:00p to 7:00p) via Zoom, in conjunction with the Engineering Capstone team
 [Assign06: Final Technical Report and Team Posters](assign06.html) | Friday, 5-14-2021 (by Noon in PDF form in your Google Drive and via email)
 [Final Peer Evaluations](PeerEval-SwarmRobotics-Sp21-final.pdf) | Friday, 5-14-2021 (by Noon in PDF form via email)
 
